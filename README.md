@@ -44,9 +44,9 @@
 
 ### ⭐ Estatísticas dos Repositórios
 
-![Stars](https://img.shields.io/github/stars/SEU_USUARIO/SEU_REPOSITORIO?style=social)
-![Forks](https://img.shields.io/github/forks/SEU_USUARIO/SEU_REPOSITORIO?style=social)
-![Issues](https://img.shields.io/github/issues/SEU_USUARIO/SEU_REPOSITORIO)
+![Stars](https://img.shields.io/github/stars/antonio-lucasd?style=social)
+![Forks](https://img.shields.io/github/forks/antonio-lucasd?style=social)
+![Issues](https://img.shields.io/github/issues/antonio-lucasd/)
 
 ---
 
