@@ -33,6 +33,20 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
 </p>
 
+---
+
+### 📊 Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)
+
+---
+
+### ⭐ Estatísticas dos Repositórios
+
+![Stars](https://img.shields.io/github/stars/SEU_USUARIO/SEU_REPOSITORIO?style=social)
+![Forks](https://img.shields.io/github/forks/SEU_USUARIO/SEU_REPOSITORIO?style=social)
+![Issues](https://img.shields.io/github/issues/SEU_USUARIO/SEU_REPOSITORIO)
 
 ---
 
@@ -43,3 +57,4 @@
 ---
 
 <i>“A qualidade de um sistema não é apenas a ausência de bugs, mas a confiança que ele entrega.”</i>
+
