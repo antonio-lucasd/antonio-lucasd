@@ -37,16 +37,9 @@
 
 ### 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats-sigma-five.vercel.app/api?username=antonio-lucasd&show_icons=true&theme=radical)
 
----
-
-### ⭐ Estatísticas dos Repositórios
-
-![Stars](https://img.shields.io/github/stars/antonio-lucasd?style=social)
-![Forks](https://img.shields.io/github/forks/antonio-lucasd?style=social)
-![Issues](https://img.shields.io/github/issues/antonio-lucasd/)
+![Linguagens mais usadas](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=antonio-lucasd&layout=compact&theme=radical)
 
 ---
 
